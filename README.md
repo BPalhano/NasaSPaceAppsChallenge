@@ -4,6 +4,7 @@ This repository is intended for the *Nasa Space Apps Challenge* competition resu
 
 > In this challenge, the team's knowledge of data processing was exploited, with NASA providing various databases and sources of information on the measured data. By exploiting the databases and the information provided about the Faraday Cup Sensor, we were able to numerically infer the temperature, velocity, and density values of the plasma sent by the sun to the probe at the Lagrange point, thus turning the dataset with level 1 information into level 2. We intend to implement an AdaRNN to predict the Kp values since AdaRNN is an ANN-type network with proven effectiveness on data with evolutionary noise, as is the case with the data provided in the main database.
 
+The presentation of what has been developed is contained within the file ``NASA_Space_Apps_Challenger_Presentation.pdf``.
 
 We intent to use for this problem:
  + [Cacth22](https://github.com/DynamicsAndNeuralSystems/catch22) and [XGBClassifer](https://xgboost.readthedocs.io/en/stable/get_started.html);
