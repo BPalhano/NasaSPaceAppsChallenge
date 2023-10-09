@@ -6,7 +6,7 @@ This repository is intended for the *Nasa Space Apps Challenge* competition resu
 
 
 We intent to use for this problem:
- + [Cacth22](https://github.com/DynamicsAndNeuralSystems/catch22);
+ + [Cacth22](https://github.com/DynamicsAndNeuralSystems/catch22) and [XGBClassifer](https://xgboost.readthedocs.io/en/stable/get_started.html);
  + [AdaRNN](https://github.com/jindongwang/transferlearning);
  + [LSTM](https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory?redirectedFrom=fulltext);
 
