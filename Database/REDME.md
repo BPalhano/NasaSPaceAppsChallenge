@@ -5,6 +5,6 @@ Therefore, we have made all the data we used available on [Google Drive](https:/
 
 1. Download the file ```Nasa_Space_Apps_Challenge_Database.zip``` from the link provided;
 2. Unzip the dataset in the same dependency as ```NASA_DSCOVR_Challenge_Dataset.ipynb```;
-3. Execute the cells of the jupyter notebook.
+3. Execute the cells of the Jupyter notebook.
 
-The generated database is available on the same link provided with the name ```Database_solution.csv```.
+The generated database is available on the link provided with the name ```Database_solution.csv```.
